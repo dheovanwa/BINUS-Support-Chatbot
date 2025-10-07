@@ -1,0 +1,14 @@
+ifastapi
+uvicorn
+langchain
+langchain-community
+langchain-chroma
+chromadb
+sentence-transformers
+ollama
+jq
+InstructorEmbedding 
+transformers
+langchain_huggingface
+torch
+accelerate
